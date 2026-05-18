@@ -48,10 +48,6 @@ Hi, I'm Mrunali 👋  <br>A passionate cybersecurity learner and trainer interes
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mrunali-17&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![](https://komarev.com/ghpvc/?username=mrunali-17&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 
 ## 🎯 Goals
 
