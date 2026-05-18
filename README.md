@@ -20,7 +20,6 @@ Hi, I'm Mrunali 👋  <br>A passionate cybersecurity learner and trainer interes
 • Git & GitHub  
 • HTML / CSS
 
----
 
 ## 🛠️ Cybersecurity Tools
 
@@ -48,10 +47,10 @@ Hi, I'm Mrunali 👋  <br>A passionate cybersecurity learner and trainer interes
 ![](https://streak-stats.demolab.com/?user=mrunali-17&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mrunali-17&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 ## 🎯 Goals
 
 To contribute to the cybersecurity community by building practical projects, sharing knowledge, and improving digital security awareness.
 
----
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
