@@ -1,4 +1,5 @@
-# 💫 About Me:
+## 🛡️ Cybersecurity Trainer | Ethical Hacking Enthusiast
+
 Hi, I'm Mrunali 👋  <br>A passionate cybersecurity learner and trainer interested in ethical hacking, digital security, and cyber awareness.  <br>I enjoy exploring Linux, networking, vulnerability analysis, and building practical cybersecurity projects.
 
 #🚀 <b>About Me</b>
